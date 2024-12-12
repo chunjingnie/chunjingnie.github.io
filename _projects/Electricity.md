@@ -1,0 +1,18 @@
+---
+title: "Electricity"
+collection: projects
+permalink: /projects/electricity
+excerpt: "This is a multiplayer co-op puzzle game where players can control two small TVs to guide power and open the gate to complete the level! Made with Unity. This is also a selection task for entering the memo lab. [Video](https://www.youtube.com/watch?v=stRFsFD7o20) and [Download Game(OS:Win)](https://github.com/jinjinhe2001/memo-Unitytest/releases/download/game/GameRelease.rar)<br/><img src='/images/Electricity1.png'>"
+date: 2020-10-10
+tag: 'game'
+---
+
+This is a multiplayer co-op puzzle game where players can control two small TVs to guide power and open the gate to complete the level! Made with Unity. This is also a selection task for entering memo lab.  
+[Github](https://github.com/jinjinhe2001/memo-Unitytest)  
+
+[Download and play](https://github.com/jinjinhe2001/memo-Unitytest/releases/download/game/GameRelease.rar). It's on Windows Platform.
+
+Click the pic below, and see the video on youtube!   
+[![Img alt text](https://img.youtube.com/vi/stRFsFD7o20/0.jpg)](https://www.youtube.com/watch?v=stRFsFD7o20)  
+
+
