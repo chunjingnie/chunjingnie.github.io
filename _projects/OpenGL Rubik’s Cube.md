@@ -8,7 +8,7 @@ tag: 'graphics'
 ---
 
 I Utilized the C++ OpenGL API to achieve the rotation of each layer of the Rubik’s Cube, including one-click disruption and restoration, camera movement, etc.  
-[Github](https://github.com/jinjinhe2001/Opengl-MagicCube)
+[Github](https://github.com/chunjingnie/Opengl-MagicCube)
 ## How to run
 Git clone the code repo and open it in Visual Studio Community IDE.
 ## Operations
@@ -17,6 +17,6 @@ Git clone the code repo and open it in Visual Studio Community IDE.
 - R to restore with one key
 - T one key to disrupting (will disrupt 25 steps)
 
-![cube](http://jinjinhe2001.github.io/images/cube.png)
+![cube](http://chunjingnie.github.io/images/cube.png)
 
 
