@@ -70,7 +70,7 @@ author_profile: true
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><h1>{{page.title}}</h1></li>
             <li class="masthead__menu-item"><a href="javascript:;">All</a></li>
-            <!-- <li class="masthead__menu-item"><a href="javascript:;">Graphics</a></li> -->
+            <li class="masthead__menu-item"><a href="javascript:;">Graphics</a></li>
             <li class="masthead__menu-item"><a href="javascript:;">Game</a></li>
             <!-- <li class="masthead__menu-item"><a href="javascript:;">Other</a></li> -->
         </ul>
