@@ -18,5 +18,4 @@ redirect_from:
 Hi!
 
 ## Projects
-I’ve worked on a range of projects, from computer graphics and game development to compilers and more. Check out [Projects](https://chunjingnie.github.io/projects/) to explore more my works in detail.
-![projects](/images/simulations.png)
+I’ve worked on a range of projects, from game development and computer graphics to system and more. Check out [Projects](https://chunjingnie.github.io/projects/) to explore more my works in detail.
